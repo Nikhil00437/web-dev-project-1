@@ -1,5 +1,6 @@
 <div align="center">
-  <img src="https://via.placeholder.com/150x150/2C1810/F5E6D3?text=E&O" alt="Ember & Oak Logo" width="100" />
+  <img src="<img width="207" height="43" alt="image" src="https://github.com/user-attachments/assets/683fe49f-b438-440e-af26-185f1f460355" />
+" alt="Ember & Oak Logo" width="100" />
   
   # Ember & Oak — Landing Page
   
