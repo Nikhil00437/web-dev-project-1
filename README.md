@@ -1,6 +1,5 @@
 <div align="center">
-  <img src="Screenshot 2026-04-08 223641.png" />
-" alt="Ember & Oak Logo" width="100" />
+  <img src="Screenshot 2026-04-08 223641.png" alt="Ember & Oak Logo" width="100" />
   
   # Ember & Oak — Landing Page
   
